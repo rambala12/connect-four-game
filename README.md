@@ -19,7 +19,7 @@ The program will first ask you for the size of the board.
 The GUI will then pop up once the board size is chosen and the battle is on!
 Click which column you want to place your coin and the program will "drop it down."
 
-<img src="https://github.com/rambala12/connect-four-game/blob/main/images/placingcoin.png" width="850" height="400" />
+<img src="https://github.com/rambala12/connect-four-game/blob/main/images/placingcoin.png" width="900" height="400" />
 
 
 
